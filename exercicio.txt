@@ -1,0 +1,23 @@
+QUESTÃO Nº 1 - Encontrar as páginas web de referência
+
+https://www.python.org/
+
+https://git-scm.com/
+
+https://code.visualstudio.com/
+
+https://www.google.pt/intl/pt-PT/chrome/
+
+https://www.mozilla.org/pt/firefox/new/
+
+https://www.microsoft.com/pt-br/edge?form=MA13FJ
+
+QUESTÃO Nº 2 - Utilidade de cada ferramenta e relação dela com o conteúdo do curso
+
+1º - O python é uma linguagem de programação moderna que engloba diversas funcionalidades, por ser versátil e de fácil aprendizado, pode ser aplicados os seus conhecimentos nesta linguagem, com implementação de funcionalidades WEB
+
+2º - O git é uma ferramenta para gestão de projetos, desde pequenos, a grandes projetos.
+
+3º - O vs code é uma ferramenta onde é possível digitar, testar e implementar códigos em diversas linguagens, de maneira funcional
+
+4º - Os navegadores são ferramentas que estarão diretamente ligadas aos testes WEB, que serão realizados durante a disciplina 
